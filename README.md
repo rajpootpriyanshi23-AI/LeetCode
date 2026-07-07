@@ -7,6 +7,7 @@ My LeetCode Journey Questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0204-count-primes) |
@@ -36,6 +37,7 @@ My LeetCode Journey Questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Greedy
