@@ -18,6 +18,7 @@ My LeetCode Journey Questions
 | [0349-intersection-of-two-arrays](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1122-relative-sort-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/1122-relative-sort-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ My LeetCode Journey Questions
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1122-relative-sort-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/1122-relative-sort-array) |
 ## Sorting
 |  |
 | ------- |
@@ -83,4 +85,9 @@ My LeetCode Journey Questions
 | [0088-merge-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1122-relative-sort-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/1122-relative-sort-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
