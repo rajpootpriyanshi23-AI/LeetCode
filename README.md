@@ -71,10 +71,12 @@ My LeetCode Journey Questions
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0709-to-lower-case) |
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1122-relative-sort-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/1122-relative-sort-array) |
@@ -83,6 +85,7 @@ My LeetCode Journey Questions
 | ------- |
 | [0056-merge-intervals](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1122-relative-sort-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/1122-relative-sort-array) |
