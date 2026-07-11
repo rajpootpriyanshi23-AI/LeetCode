@@ -15,6 +15,7 @@ My LeetCode Journey Questions
 | [0088-merge-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0204-count-primes) |
+| [0330-patching-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -54,6 +55,7 @@ My LeetCode Journey Questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0011-container-with-most-water) |
+| [0330-patching-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0330-patching-array) |
 ## Depth-First Search
 |  |
 | ------- |
