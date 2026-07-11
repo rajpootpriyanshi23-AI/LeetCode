@@ -97,4 +97,8 @@ My LeetCode Journey Questions
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/1122-relative-sort-array) |
+## Trie
+|  |
+| ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
