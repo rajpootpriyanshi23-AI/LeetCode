@@ -12,6 +12,7 @@ My LeetCode Journey Questions
 | [0033-search-in-rotated-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -123,5 +124,10 @@ My LeetCode Journey Questions
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0079-word-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
