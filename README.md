@@ -12,6 +12,7 @@ My LeetCode Journey Questions
 | [0033-search-in-rotated-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0200-number-of-islands) |
@@ -64,6 +65,7 @@ My LeetCode Journey Questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -76,11 +78,13 @@ My LeetCode Journey Questions
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0200-number-of-islands) |
 ## String
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0709-to-lower-case) |
 ## Hash Table
@@ -116,4 +120,8 @@ My LeetCode Journey Questions
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0076-minimum-window-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
