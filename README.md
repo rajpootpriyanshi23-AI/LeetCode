@@ -38,6 +38,7 @@ My LeetCode Journey Questions
 | ------- |
 | [0066-plus-one](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
@@ -87,6 +88,7 @@ My LeetCode Journey Questions
 | ------- |
 | [0076-minimum-window-substring](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0079-word-search) |
+| [0168-excel-sheet-column-title](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0709-to-lower-case) |
 ## Hash Table
