@@ -16,6 +16,7 @@ My LeetCode Journey Questions
 | [0079-word-search](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0204-count-primes) |
 | [0330-patching-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0330-patching-array) |
@@ -92,6 +93,7 @@ My LeetCode Journey Questions
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -101,6 +103,7 @@ My LeetCode Journey Questions
 | ------- |
 | [0056-merge-intervals](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -108,6 +111,7 @@ My LeetCode Journey Questions
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0169-majority-element) |
 | [1122-relative-sort-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/1122-relative-sort-array) |
 ## Trie
 |  |
@@ -130,4 +134,8 @@ My LeetCode Journey Questions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0078-subsets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
