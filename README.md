@@ -17,6 +17,7 @@ My LeetCode Journey Questions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0204-count-primes) |
@@ -31,6 +32,7 @@ My LeetCode Journey Questions
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
