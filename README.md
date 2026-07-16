@@ -24,6 +24,7 @@ My LeetCode Journey Questions
 | [0330-patching-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0503-next-greater-element-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0845-longest-mountain-in-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1122-relative-sort-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/1122-relative-sort-array) |
@@ -159,4 +160,9 @@ My LeetCode Journey Questions
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0503-next-greater-element-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
