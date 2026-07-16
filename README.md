@@ -57,6 +57,7 @@ My LeetCode Journey Questions
 | [0031-next-permutation](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0845-longest-mountain-in-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0845-longest-mountain-in-array) |
@@ -105,6 +106,7 @@ My LeetCode Journey Questions
 | ------- |
 | [0056-merge-intervals](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -139,5 +141,14 @@ My LeetCode Journey Questions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
