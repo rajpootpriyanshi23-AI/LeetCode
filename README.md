@@ -158,6 +158,7 @@ My LeetCode Journey Questions
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -171,4 +172,8 @@ My LeetCode Journey Questions
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
