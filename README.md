@@ -16,6 +16,7 @@ My LeetCode Journey Questions
 | [0079-word-search](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0169-majority-element) |
@@ -139,10 +140,12 @@ My LeetCode Journey Questions
 | ------- |
 | [0078-subsets](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0090-subsets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
