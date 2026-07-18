@@ -17,6 +17,7 @@ My LeetCode Journey Questions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0169-majority-element) |
@@ -130,6 +131,7 @@ My LeetCode Journey Questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0845-longest-mountain-in-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0845-longest-mountain-in-array) |
 ## Sliding Window
 |  |
