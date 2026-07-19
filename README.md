@@ -43,6 +43,7 @@ My LeetCode Journey Questions
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -95,6 +96,7 @@ My LeetCode Journey Questions
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -147,6 +149,7 @@ My LeetCode Journey Questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0090-subsets-ii) |
 ## Divide and Conquer
@@ -178,4 +181,8 @@ My LeetCode Journey Questions
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
