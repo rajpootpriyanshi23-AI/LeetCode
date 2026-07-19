@@ -45,6 +45,7 @@ My LeetCode Journey Questions
 | [0066-plus-one](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0204-count-primes) |
@@ -134,6 +135,7 @@ My LeetCode Journey Questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0845-longest-mountain-in-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0845-longest-mountain-in-array) |
 ## Sliding Window
@@ -185,4 +187,8 @@ My LeetCode Journey Questions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
