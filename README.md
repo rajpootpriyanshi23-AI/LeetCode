@@ -62,6 +62,7 @@ My LeetCode Journey Questions
 | [0011-container-with-most-water](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0148-sort-list) |
@@ -156,6 +157,7 @@ My LeetCode Journey Questions
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0206-reverse-linked-list) |
