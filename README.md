@@ -8,6 +8,7 @@ My LeetCode Journey Questions
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0056-merge-intervals) |
@@ -64,6 +65,7 @@ My LeetCode Journey Questions
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0075-sort-colors) |
