@@ -32,6 +32,7 @@ My LeetCode Journey Questions
 | [0845-longest-mountain-in-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1122-relative-sort-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/1122-relative-sort-array) |
+| [1146-snapshot-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/1146-snapshot-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ My LeetCode Journey Questions
 | [0349-intersection-of-two-arrays](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1146-snapshot-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/1146-snapshot-array) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +118,7 @@ My LeetCode Journey Questions
 | [0349-intersection-of-two-arrays](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1122-relative-sort-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/1122-relative-sort-array) |
+| [1146-snapshot-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/1146-snapshot-array) |
 ## Sorting
 |  |
 | ------- |
@@ -196,4 +199,8 @@ My LeetCode Journey Questions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [1146-snapshot-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/1146-snapshot-array) |
 <!---LeetCode Topics End-->
