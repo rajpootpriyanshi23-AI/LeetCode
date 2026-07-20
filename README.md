@@ -23,6 +23,7 @@ My LeetCode Journey Questions
 | [0150-evaluate-reverse-polish-notation](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0204-count-primes) |
 | [0330-patching-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0330-patching-array) |
@@ -52,6 +53,7 @@ My LeetCode Journey Questions
 | [0070-climbing-stairs](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
@@ -74,6 +76,7 @@ My LeetCode Journey Questions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0845-longest-mountain-in-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0845-longest-mountain-in-array) |
