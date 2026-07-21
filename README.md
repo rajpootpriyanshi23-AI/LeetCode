@@ -70,6 +70,7 @@ My LeetCode Journey Questions
 | [0011-container-with-most-water](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0075-sort-colors) |
@@ -106,6 +107,7 @@ My LeetCode Journey Questions
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0079-word-search) |
@@ -208,4 +210,8 @@ My LeetCode Journey Questions
 |  |
 | ------- |
 | [1146-snapshot-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/1146-snapshot-array) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
