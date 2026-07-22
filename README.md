@@ -26,6 +26,7 @@ My LeetCode Journey Questions
 | [0189-rotate-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0204-count-primes) |
+| [0216-combination-sum-iii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0330-patching-array](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -161,6 +162,7 @@ My LeetCode Journey Questions
 | [0078-subsets](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/rajpootpriyanshi23-AI/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
